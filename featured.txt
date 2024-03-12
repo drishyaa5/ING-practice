@@ -1,0 +1,54 @@
+<div class="car__featured">
+        <div class="car__featured-content">
+            <h1>Featured Photos of this week</h1>            
+        </div>
+        <div class="car__featured-photos">
+            <div class="car__featured-photos-content">
+                <div class="car__featured-img">
+                    <img src="img/f40.avif" alt="f40">
+                </div>
+                <div class="car__featured-imgContent">
+                    <h1>This is f40</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, alias.</p>
+                </div>
+            </div>
+            <div class="car__featured-photos-content">
+                <div class="car__featured-img">
+                    <img src="img/f40.avif" alt="f40">
+                </div>
+                <div class="car__featured-imgContent">
+                    <h1>This is f40</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, alias.</p>
+                </div>
+            </div>
+            <div class="car__featured-photos-content">
+                <div class="car__featured-img">
+                    <img src="img/f40.avif" alt="f40">
+                </div>
+                <div class="car__featured-imgContent">
+                    <h1>This is f40</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, alias.</p>
+                </div>
+            </div>
+            <div class="car__featured-photos-content">
+                <div class="car__featured-img">
+                    <img src="img/f40.avif" alt="f40">
+                </div>
+                <div class="car__featured-imgContent">
+                    <h1>This is f40</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, alias.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="car__featured-carrera">
+            <div class="car__featured-carrera-img">
+                <img src="img/merc-amg.jpg" alt="merc">
+            </div>
+
+            <div class="car__featured-carrera-text">
+                <h1>this is merc</h1>
+            </div>
+        </div>
+        
+    </div>
